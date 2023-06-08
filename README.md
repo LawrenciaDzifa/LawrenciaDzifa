@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=lawrenciadzifa&card_width=800)](https://git.io/streak-stats)
 
 
-## This is me 😀
+## This is me
 <!-- ## Bio -->
 - I am passionate web and mobile developer.
 - I hold a Bachelor of Science in Information Technology.
