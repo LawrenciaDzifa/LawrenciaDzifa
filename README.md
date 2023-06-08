@@ -15,7 +15,7 @@
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/LawrenciaDzifa/LawrenciaDzifa/main/Resource/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/LawrenciaDzifa/LawrenciaDzifa/main/Resource/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lawrencia-dzifa-ahiadeke-028a0b199/" target="_blank"><img height="30" src="https://github.com/LawrenciaDzifa/LawrenciaDzifa/blob/main/Resource/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/LawrenciaDzifa/LawrenciaDzifa/main/Resource/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
