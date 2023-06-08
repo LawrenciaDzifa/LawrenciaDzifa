@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=lawrenciadzifa&card_width=900)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=lawrenciadzifa&card_width=900)](https://git.io/streak-stats) -->
 
 
 ## This is me
