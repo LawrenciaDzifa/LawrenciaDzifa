@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is me 😀
 
 <!--
 **LawrenciaDzifa/LawrenciaDzifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ## Bio -->
+I am passionate web and mobile developer with a Bachelor of Science in Information Technology from University of Ghana.
+I love to learn and improve on my skills.
+
+
+<!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
+
+<!-- ![Lawrencia Dzifa's github stats](https://github-readme-stats.vercel.app/api?username=lawrenciadzifa&show_icons=true&theme=dracula) -->
+
