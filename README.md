@@ -1,3 +1,6 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=lawrenciadzifa&card_width=800)](https://git.io/streak-stats)
+
+
 ## This is me 😀
 <!-- ## Bio -->
 - I am passionate web and mobile developer.
@@ -24,7 +27,14 @@
 
 
 
-<!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
+<!--  ## 𝗦𝘁𝗮𝘁𝘀 
 
-<!-- ![Lawrencia Dzifa's github stats](https://github-readme-stats.vercel.app/api?username=lawrenciadzifa&show_icons=true&theme=dracula) -->
+![Lawrencia Dzifa's github stats](https://github-readme-stats.vercel.app/api?username=lawrenciadzifa&show_icons=true&theme=dracula) 
+
+ -->
+
+
+
+
+
 
