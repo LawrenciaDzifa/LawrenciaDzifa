@@ -1,22 +1,27 @@
-### This is me 😀
-
-<!--
-**LawrenciaDzifa/LawrenciaDzifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This is me 😀
 <!-- ## Bio -->
-I am passionate web and mobile developer with a Bachelor of Science in Information Technology from University of Ghana.
-I love to learn and improve on my skills.
+- I am passionate web and mobile developer.
+- I hold a Bachelor of Science in Information Technology.
+- I love to learn and improve on my skills.
+- I love biking.
+
+
+## Languages & Tools
+- Tech stack: Php[Laravel, Filament,WordPress], Dart[Flutter].
+- UI Design: Figma.
+- Databases: MySQL, MySQLWorkbench.
+- Other skills: HTML/CSS, Bootstrap, Tailwind.
+
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/LawrenciaDzifa/LawrenciaDzifa/master/Resources/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/LawrenciaDzifa/LawrenciaDzifa/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/LawrenciaDzifa/LawrenciaDzifa/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</p>
+
+
 
 
 <!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
