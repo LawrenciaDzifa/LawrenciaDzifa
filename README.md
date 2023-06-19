@@ -3,10 +3,10 @@
 
 ## This is me
 <!-- ## Bio -->
-- I am passionate web and mobile developer.
+- I am a passionate web and mobile developer.
 - I hold a Bachelor of Science in Information Technology.
-- I love to learn and improve on my skills.
-- I love biking.
+- I love to learn and improve my skills.
+- I love music and biking.
 
 
 ## Languages & Tools
