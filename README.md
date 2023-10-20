@@ -18,7 +18,7 @@
 ## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/lawrencia-dzifa-ahiadeke-028a0b199/" target="_blank"><img height="30" src="https://github.com/LawrenciaDzifa/LawrenciaDzifa/blob/main/Resource/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/afia_dzifa" target="_blank"><img height="30" src="https://github.com/LawrenciaDzifa/LawrenciaDzifa/blob/main/Resource/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/afia_dzifa" target="_blank"><img height="30" src="https://github.com/LawrenciaDzifa/LawrenciaDzifa/blob/main/Resource/xnewsl.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/afiadzifa" target="_blank"><img height="30" src="https://github.com/LawrenciaDzifa/LawrenciaDzifa/blob/main/Resource/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
